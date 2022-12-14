@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * print_sign - return 0 letter not lowercase, 1 letter lowercase
  *
